@@ -1,0 +1,22 @@
+.black {
+    color: black;
+    font-size: xx-large;
+    font-weight: bold;
+    padding-left: 60px;
+    margin: 45px 45px 45px 45px
+}
+
+.red {
+    color: red;
+    font-size: xx-large;
+    font-weight: bold;
+    padding-left: 60px;
+    margin: 45px 45px 45px 45px
+}
+
+.text {
+    color: black;
+    font-size: medium;
+    font-weight: normal;
+    margin: 45px 45px 45px 45px;
+}

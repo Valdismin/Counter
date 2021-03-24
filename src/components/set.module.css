@@ -1,0 +1,43 @@
+.setPage {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.setPage span{
+    color:white
+}
+.setPage input{
+    border-radius: 10px;
+    text-align: center;
+}
+.set{
+    width: 100px;
+    height:40px;
+    background-color: aqua;
+    border: 15px;
+    border-radius: 15px;
+    text-decoration-color: white;
+    margin:5px
+}
+.button{
+    border: 2px double aqua;
+    border-radius: 10px;
+    width: 210px;
+    background-color:navy;
+    display: flex;
+    justify-content: space-around;
+}
+.inputs{
+    border: 2px double aqua;
+    border-radius: 10px;
+    height: 120px;
+    margin: 10px 10px 10px 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color:navy;
+}

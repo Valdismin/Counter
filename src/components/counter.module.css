@@ -1,0 +1,42 @@
+.counter {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.textField {
+    border: 2px double aqua;
+    border-radius: 10px;
+    height: 120px;
+    margin: 10px 0px 10px 0px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color:navy;
+}
+
+.knopki {
+    border: 2px double aqua;
+    display: flex;
+    justify-content: space-around;
+    border-radius: 10px;
+    width: 210px;
+    background-color:navy;
+}
+
+.black {
+    color: white;
+    font-size: x-large;
+    font-weight: normal;
+    width: 210px;
+}
+
+.red {
+    color: red;
+    font-size: x-large;
+    font-weight: normal;
+    width: 210px;
+}

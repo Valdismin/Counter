@@ -1,0 +1,27 @@
+.schetchik {
+    display: flex;
+    justify-content: space-around;
+    border: 2px double aqua;
+    width: 600px;
+    margin: 50px auto;
+    background-color: navy;
+    border-radius: 20px;
+}
+
+.counter {
+    border: 2px double aqua;
+    background-color:navy;
+    border-radius: 10px;
+    width: 230px;
+    height: 230px;
+    margin: 50px auto;
+}
+
+.set {
+    border: 2px double aqua;
+    background-color:navy;
+    border-radius: 10px;
+    width: 230px;
+    height: 230px;
+    margin: 50px auto;
+}
